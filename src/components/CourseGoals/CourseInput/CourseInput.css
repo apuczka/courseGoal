@@ -22,3 +22,8 @@
   background: #fad0ec;
   border-color: #8b005d;
 }
+
+.invalid {
+  color: red;
+  background-color: rgb(229, 190, 190);
+}
